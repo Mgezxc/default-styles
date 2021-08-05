@@ -1,2 +1,2 @@
-# default-styles
+# Default-Styles
 Default CSS Starter
